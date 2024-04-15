@@ -1,0 +1,246 @@
+#banner{
+    background-image: url(cq5dam.resized.img.1680.large.time1673937459471.png);
+    background-repeat: no-repeat;
+    height: 650px;
+    background-size: cover;
+}
+#list{
+    list-style: none; 
+    }
+
+ #nav1{margin-top: 10px;
+    display: inline-flex;
+    font-size: 20x;
+    font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+    margin-left: 80px;
+   font-weight: 700;
+    align-items: center;
+    padding-left: 15px;
+ }
+ 
+ #nav2{
+    font-weight: 700;
+    display: inline-flex;
+    font-size: 20px;
+    margin-left: 400px;
+    align-items: center;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.li1{
+    padding-left: 25px;
+}
+    
+#icn{
+    height: 50px;
+    border-radius: 120px;
+    border: 2px solid white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#Pleasure{
+    float: right;
+    color: white;
+    margin-right: 150px;
+
+}
+
+#zz{
+    font-size: 50px;
+    color: white;
+    /* font-family: 'Oswald', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    margin-left: 80px;
+    margin-bottom: 0%;
+
+}
+
+
+#xx1{
+    border: 2px solid black;
+    width: 15%;
+    text-align: center;
+    margin-left: 80px;
+    padding: 10px;
+  
+    
+}
+#xx2{
+    border: 2px solid white;
+    width: 15%;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 80px;
+    padding: 10px;
+}
+#xx1:hover{
+    border-color:white;
+
+}
+#xx2:hover{
+    border-color:grey;
+
+}
+   
+ #banner2{
+    margin-top: 5px;
+    display: flex;
+    height: 350px;
+    border: 1px solid white;
+    
+ }
+
+ #banner21{
+    border: 2px solid white;
+    width: 50%;
+    background-image: url(im1.jpg ) ;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* position: relative; */
+  }
+     
+    
+ #banner22{
+    border: 2px solid white;
+    width: 50%;
+    background-image: url(im2.jpg ) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+#bannerheader{
+    color: white;
+    font-size: 35px;
+    margin-left: 50px;
+
+} 
+#bannerbutton{
+    color: white;
+    font-size: 30px;
+    margin-left: 50px;
+    border: 2px solid white;
+    width: 40%;
+    height: 10%;
+    padding: 10px;
+    text-align: center;
+}
+
+#bannerheader2{
+    color: white;
+    font-size: 35px;
+    margin-left: 50px;
+
+} 
+#bannerbutton2{
+    color: white;
+    font-size: 30px;
+    margin-left: 50px;
+    border: 2px solid white;
+    width: 40%;
+    height: 10%;
+    padding: 10px;
+    text-align: center;
+
+}
+
+#bannerbutton2:hover{
+    border-color: gray;
+}
+#bannerbutton:hover{
+    border-color: gray;
+}
+
+
+#Series{
+    height: 80px;
+    width: 80%;
+    border-bottom: 0.9px solid gainsboro;
+   margin-left: 10%;
+   margin-top: 10px;
+}
+#seriesul{
+    display:inline-flex;
+    list-style: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.683);
+   
+    
+}
+#seriesli1{margin-right: 20px;
+    }
+
+
+    #number{
+        height: 80px;
+        width: 80%;
+        border-bottom: 0.9px solid gainsboro;
+       margin-left: 10%;
+    }
+    #numberul{
+        display:inline-flex;
+        list-style: none;
+        font-size: 20px;
+        font-weight: bold;
+       color: rgba(0, 0, 0, 0.683);
+        
+    }
+    #numberli1{margin-right: 20px;
+        } 
+   .n{
+    margin-left: 35px;
+   }        
+
+
+   /* grid */
+
+.grid-container{ display: grid;
+                grid-template-columns: auto auto auto auto;
+                 column-gap: 30px;
+                 width: 40%;
+                height: 600px;
+            margin-left: 60px;}
+
+/* .grid-item{ border: 1px solid black; */
+
+
+
+H1{
+    font-weight: 100;
+    margin-top: 0;
+
+}
+H2{
+    font-weight: 100;
+}
+
+#grd{ display: grid;
+    grid-template-columns: auto auto auto auto;
+     column-gap: 30px;
+     width: 600px;
+     margin-left: 110px;
+     
+
+}
+.zz{
+    border: 1px solid gainsboro;
+    padding: 20px;
+}
+
+#hi{
+    margin-left: 100px;
+}
+#hi1{
+    font-size: 40px;
+    font-weight: 100;
+    color: rgba(0, 0, 0, 0.724);
+}
+#hi2{
+    font-size: 30px;
+    font-weight: 100;
+    color: rgba(0, 0, 0, 0.724);
+}
